@@ -1,0 +1,37 @@
+mat-card {
+    width: 95%;
+    align-items: center;
+    margin: 1rem auto;
+}
+form {
+    width: 100%;
+    margin: 2rem auto 0 auto;
+    text-align: center;
+}
+
+.dataFinal {
+    text-align: center;
+    font-weight: 600;
+    font-size: .9rem;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 3rem;
+    color: rgba(0, 0, 0, 0.815);
+}
+
+.form {
+    width: 75%;
+}
+
+.buttons{
+    width: 100%;
+}
+
+button {
+    margin-right: .6rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}

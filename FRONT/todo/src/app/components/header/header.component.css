@@ -1,0 +1,17 @@
+img {
+    height: 3rem;
+}
+
+.header{
+    justify-content: center;
+    height: 12%;
+}
+
+span {
+    display: flex;
+    align-items: center;
+}
+
+.titulo {
+    padding-left: 0.4rem;
+}
